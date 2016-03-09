@@ -1,0 +1,27 @@
+{
+  "name": "makey",
+  "version": "0.0.0",
+  "description": "CAD tools for everyone!",
+  "main": "makey.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "lighter-type": "^2.1.1",
+    "jscad": "^1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lighterio/makey.git"
+  },
+  "author": "Sam Eubank <sameubank@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lighterio/makey/issues"
+  },
+  "homepage": "https://github.com/lighterio/makey#readme"
+}
